@@ -1,5 +1,7 @@
 # Basic sample for unit testing on device or emulator
 
+[![Build Status](https://travis-ci.org/qinwenshi/android-test-basic.svg?branch=master)](https://travis-ci.org/qinwenshi/android-test-basic)
+
 An *Unit Android Test* is a test that needs an Android device or emulator but it's different
 from a UI test because it doesn't start any activities.
 
